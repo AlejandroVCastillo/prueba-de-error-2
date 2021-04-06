@@ -1,4 +1,3 @@
-AC_XCODE_VERSION: 11.5.1
 var cantidadNormal = Int()
 var cantidadDeNotas = Int()
 var contador = 0
